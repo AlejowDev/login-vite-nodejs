@@ -5,5 +5,3 @@ Aplicación web full-stack diseñada para la gestión de usuarios y roles, con r
 1. Importar la base SQL
 2. Instalar las dependencias de ambas carpetas (Frontend y Backend) con "npm install"
 3. Acceder a cada carpeta y iniciar el servidor (npm run dev) en cada una
-
-:)
